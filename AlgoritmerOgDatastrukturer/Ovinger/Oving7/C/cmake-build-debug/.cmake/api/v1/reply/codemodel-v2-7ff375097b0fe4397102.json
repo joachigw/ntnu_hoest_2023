@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Oppgave1",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Oppgave1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Oppgave1-Debug-2782ccfccc63b0d94588.json",
+					"name" : "Oppgave1",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/joachimgrimenwestgaard/Library/CloudStorage/Dropbox/main/_NTNU/Dataingenior/H2023/AlgoritmerOgDatastrukturer/Ovinger/Oving7/C/cmake-build-debug",
+		"source" : "/Users/joachimgrimenwestgaard/Library/CloudStorage/Dropbox/main/_NTNU/Dataingenior/H2023/AlgoritmerOgDatastrukturer/Ovinger/Oving7/C"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

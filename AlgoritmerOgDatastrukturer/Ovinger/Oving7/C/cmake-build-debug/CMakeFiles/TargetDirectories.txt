@@ -1,0 +1,3 @@
+/Users/joachimgrimenwestgaard/Library/CloudStorage/Dropbox/main/_NTNU/Dataingenior/H2023/AlgoritmerOgDatastrukturer/Ovinger/Oving7/C/cmake-build-debug/CMakeFiles/Oppgave1.dir
+/Users/joachimgrimenwestgaard/Library/CloudStorage/Dropbox/main/_NTNU/Dataingenior/H2023/AlgoritmerOgDatastrukturer/Ovinger/Oving7/C/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/joachimgrimenwestgaard/Library/CloudStorage/Dropbox/main/_NTNU/Dataingenior/H2023/AlgoritmerOgDatastrukturer/Ovinger/Oving7/C/cmake-build-debug/CMakeFiles/rebuild_cache.dir
